@@ -1,4 +1,74 @@
-197688401717943
+1457948298250070
+Arduino
+Arduino_101_Shield
+https://store.arduino.cc/genuino-101
+
+0
+38
+38
+Arduino
+Arduino_Due_Shield
+https://store.arduino.cc/arduino-due
+
+0
+92
+91
+Arduino
+Arduino_Leonardo_Shield
+https://store.arduino.cc/arduino-leonardo-with-headers
+
+0
+38
+37
+Arduino
+Arduino_Mega2560_Shield
+https://store.arduino.cc/arduino-mega-2560-rev3
+
+0
+92
+91
+Arduino
+Arduino_Micro_Socket
+https://store.arduino.cc/arduino-micro
+
+0
+34
+32
+Arduino
+Arduino_Mini_Socket
+https://store.arduino.cc/arduino-mini-05
+
+0
+35
+35
+Arduino
+Arduino_Nano_Socket
+https://store.arduino.cc/arduino-nano
+
+0
+30
+30
+Arduino
+Arduino_Uno_Shield
+https://store.arduino.cc/arduino-uno-rev3
+
+0
+38
+37
+Arduino
+Arduino_Uno_Shield_Hat
+https://store.arduino.cc/arduino-uno-rev3
+
+0
+38
+37
+Arduino
+Arduino_Zero_Shield
+https://store.arduino.cc/genuino-zero
+
+0
+38
+38
 Connector_Dsub
 DSUB-9_Female_EdgeMount_P2.77mm
 9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
@@ -839,3 +909,5288 @@ DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
 0
 64
 63
+D&R_Conn
+2P
+
+
+0
+2
+2
+D&R_Conn
+2P_ScrewTerminal
+
+
+0
+2
+2
+D&R_Conn
+2P_TB
+
+
+0
+2
+2
+D&R_Conn
+3P_PH_3.96
+
+
+0
+3
+3
+D&R_Conn
+3P_SCREW_TERMINAL_P3.96
+
+3P_SCREW_TERMINAL_P3.96
+0
+3
+3
+D&R_Conn
+6P_ScrewTerminal
+
+
+0
+6
+6
+D&R_Conn
+8P_SCREW_TERMINAL
+
+
+0
+8
+8
+D&R_Conn
+74990112116A
+
+
+0
+14
+14
+D&R_Conn
+BNC_8928-B1_75A
+http://www.farnell.com/datasheets/612848.pdf
+BNC Amphenol Horizontal
+0
+4
+2
+D&R_Conn
+CINCH4_LPA0863-B
+
+
+0
+6
+6
+D&R_Conn
+CONN_01X01
+Through hole pin header
+pin header
+0
+1
+1
+D&R_Conn
+CONN_01x02_LOCK
+Through hole pin header
+pin header
+0
+2
+2
+D&R_Conn
+CONN_01x02_LOCK_H
+Through hole pin header
+pin header
+0
+2
+2
+D&R_Conn
+CONN_01x03
+Through hole pin header
+pin header
+0
+3
+3
+D&R_Conn
+CONN_01x03_LOCK
+Through hole pin header
+pin header
+0
+3
+3
+D&R_Conn
+CONN_01x04_LOCK
+Through hole pin header
+pin header
+0
+4
+4
+D&R_Conn
+CONN_01x08_LOCK
+Through hole pin header
+pin header lock
+0
+8
+8
+D&R_Conn
+Conn_2114-2x08
+
+
+0
+16
+16
+D&R_Conn
+Conn_2114-2x12
+
+
+0
+24
+24
+D&R_Conn
+Conn_2114-2x20
+
+
+0
+40
+40
+D&R_Conn
+Conn_2114-2x20MIRR
+
+
+0
+40
+40
+D&R_Conn
+CortexDebug_2x05P
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+D&R_Conn
+DDR2_SODIMM
+
+
+0
+202
+200
+D&R_Conn
+DSUB_HD_44P_Female_90
+
+
+0
+46
+46
+D&R_Conn
+DSUB_HD_44P_Male_90
+
+
+0
+46
+46
+D&R_Conn
+HDMI_WR-COM
+
+
+0
+23
+23
+D&R_Conn
+HEADER_1X04F_ANG
+
+
+0
+4
+4
+D&R_Conn
+HEADER_1X04M
+
+
+0
+4
+4
+D&R_Conn
+HEADER_1x6_HOR_LONG_PAD
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+D&R_Conn
+HEADER_01x06_P2.54
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+D&R_Conn
+HEADER_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+D&R_Conn
+HEADER_2x3P
+
+
+0
+6
+6
+D&R_Conn
+HEADER_2x3_HOR_TOP_BOTTOM
+
+
+0
+6
+6
+D&R_Conn
+HEADER_2x5_254
+
+
+0
+10
+10
+D&R_Conn
+HEADER_2x5_254_90DEG
+
+
+0
+10
+10
+D&R_Conn
+HEADER_2x5_254_Box
+
+
+0
+10
+10
+D&R_Conn
+HEADER_2x8_254
+
+
+0
+16
+16
+D&R_Conn
+HEADER_2x8_254_MIRR
+
+
+0
+16
+16
+D&R_Conn
+HEADER_2x10_254_Box
+
+
+0
+20
+20
+D&R_Conn
+HEADER_2x17_BOT
+
+
+0
+34
+34
+D&R_Conn
+HEADER_2x17_MIRR
+
+
+0
+34
+34
+D&R_Conn
+HEADER_3011-2x5
+
+
+0
+10
+10
+D&R_Conn
+HEADER_3011-2x5_S
+
+
+0
+10
+10
+D&R_Conn
+HEADER_3011-2x10
+
+
+0
+20
+20
+D&R_Conn
+HEADER_3011-2x10_S
+
+
+0
+20
+20
+D&R_Conn
+HEADER_3011-2x17
+
+
+0
+34
+34
+D&R_Conn
+HEADER_3011-2x17_S
+
+
+0
+34
+34
+D&R_Conn
+HEADER_3011-2x20
+
+
+0
+40
+40
+D&R_Conn
+HEADER_3011-2x20_S
+
+
+0
+40
+40
+D&R_Conn
+HEADER_3011-2x25
+
+
+0
+50
+50
+D&R_Conn
+HEADER_3011-2x25_S
+
+
+0
+50
+50
+D&R_Conn
+HEADER_3011-2x32
+
+
+0
+64
+64
+D&R_Conn
+HEADER_3011-2x32-orientation_at_pin_1
+
+
+0
+64
+64
+D&R_Conn
+HEADER_3012-2x20_S
+Through hole straight IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x20 2.54mm double row
+0
+40
+40
+D&R_Conn
+Hole_3.5mm
+
+
+0
+1
+1
+D&R_Conn
+Hole_3.5x4mm
+
+
+0
+1
+1
+D&R_Conn
+Hole_3.6mm
+
+
+0
+1
+1
+D&R_Conn
+Hole_3.8x4.4mm
+
+
+0
+1
+1
+D&R_Conn
+IDC-Header_2x17_P2.54mm_Horizontal_Lock
+Connector IDC Locked, 10 contacts, compatible header: PANCON HE10 (Series 50, (https://www.reboul.fr/storage/00003af6.pdf)
+connector idc locked
+0
+34
+34
+D&R_Conn
+LJ0697H-5
+
+
+0
+5
+5
+D&R_Conn
+LJB0670
+
+
+0
+6
+6
+D&R_Conn
+LJB0671-12
+
+
+0
+12
+12
+D&R_Conn
+LPA0860
+
+
+0
+5
+5
+D&R_Conn
+LPA0860V
+
+
+0
+3
+3
+D&R_Conn
+LPA0863V
+
+
+0
+6
+6
+D&R_Conn
+LX-1602-3
+
+
+0
+3
+3
+D&R_Conn
+LX-1603-3
+
+
+0
+4
+4
+D&R_Conn
+LX-1604H-3
+
+
+0
+4
+4
+D&R_Conn
+LX1601H-3
+
+
+0
+4
+4
+D&R_Conn
+MountingStut4mm
+
+
+0
+0
+0
+D&R_Conn
+NMJ6HFD2
+
+
+0
+6
+6
+D&R_Conn
+OUPIIN-9111-42481
+
+
+0
+54
+48
+D&R_Conn
+PhoenixContact_MSTBA-G_02x5.08mm_Angled
+Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 02; pin pitch: 5.08mm; Angled || order number: 1757242 12A || order number: 1923869 16A (HC)
+phoenix_contact connector MSTBA_01x02_G_5.08mm
+0
+2
+2
+D&R_Conn
+PhoenixContact_MSTBA-G_05x5.08mm_Angled
+Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 05; pin pitch: 5.08mm; Angled || order number: 1757271 12A || order number: 1923898 16A (HC)
+phoenix_contact connector MSTBA_01x05_G_5.08mm
+0
+5
+5
+D&R_Conn
+PhoenixContact_MSTBA-G_06x5.08mm_Angled
+Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 06; pin pitch: 5.08mm; Angled || order number: 1757284 12A || order number: 1923908 16A (HC)
+phoenix_contact connector MSTBA_01x06_G_5.08mm
+0
+6
+6
+D&R_Conn
+PhoenixContact_MSTBA-G_09x5.08mm_Angled
+Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 09; pin pitch: 5.08mm; Angled || order number: 1757310 12A || order number: 1923937 16A (HC)
+phoenix_contact connector MSTBA_01x09_G_5.08mm
+0
+9
+9
+D&R_Conn
+PhoenixContact_MSTBA-G_11x5.08mm_Angled
+Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 11; pin pitch: 5.08mm; Angled || order number: 1757336 12A || order number: 1923953 16A (HC)
+phoenix_contact connector MSTBA_01x11_G_5.08mm
+0
+11
+11
+D&R_Conn
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+D&R_Conn
+RCA-226
+
+
+0
+3
+3
+D&R_Conn
+RJ11_805-D
+
+
+0
+4
+4
+D&R_Conn
+RJ45_100-1000M_MC001524
+
+
+0
+16
+16
+D&R_Conn
+RJ45_8949-B88
+
+
+0
+10
+10
+D&R_Conn
+RJ45_8949-ID2884
+
+
+0
+38
+38
+D&R_Conn
+RJ45_8949-L1881
+
+
+0
+14
+14
+D&R_Conn
+RJ45_Multicomp_MC001516
+LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT
+ethernet lan connector
+0
+16
+15
+D&R_Conn
+RJ45_Wuerth_7499111446_Horizontal
+LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT
+ethernet lan connector
+0
+16
+15
+D&R_Conn
+SIL2
+
+
+0
+2
+2
+D&R_Conn
+SIL2_FEM
+
+
+0
+2
+2
+D&R_Conn
+SIL3
+
+
+0
+3
+3
+D&R_Conn
+SIL3_FEM
+
+
+0
+3
+3
+D&R_Conn
+SIL4
+
+
+0
+4
+4
+D&R_Conn
+SIL4_FEM
+
+
+0
+4
+4
+D&R_Conn
+SIL5
+
+
+0
+5
+5
+D&R_Conn
+SIL5_FEM
+
+
+0
+5
+5
+D&R_Conn
+SIL7
+
+
+0
+7
+7
+D&R_Conn
+SIL7_FEM
+
+
+0
+7
+7
+D&R_Conn
+SIL7_FEM_OLED
+
+
+0
+7
+7
+D&R_Conn
+SIL8
+
+
+0
+8
+8
+D&R_Conn
+SIL8_FEM
+
+
+0
+8
+8
+D&R_Conn
+SIP-16
+
+
+0
+16
+16
+D&R_Conn
+Samtec_MECF-70-02-NP-L-DV_2x70_P1.27mm_Socket_Horizontal
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+140
+140
+D&R_Conn
+Socket_miniPCI-124pin_114B
+
+
+0
+126
+126
+D&R_Conn
+Symbol_HighVoltage_Type1_Silktop
+Symbol, HighVoltage, Type1, Copper Top, Big,
+Symbol, HighVoltage, Type1, Copper Top, Big,
+0
+0
+0
+D&R_Conn
+USB_2xA_OUPIIN
+
+
+0
+12
+12
+D&R_Conn
+USB_A_OUPIIN
+
+
+0
+6
+6
+D&R_Conn
+USB_B_OUPIIN
+USB B connector
+USB_B USB_DEV
+0
+6
+6
+D&R_Conn
+USB_B_vert3mm
+USB B connector
+USB_B USB_DEV
+0
+6
+5
+D&R_Conn
+VIA-0,6mm
+
+
+0
+1
+1
+D&R_Conn
+VIA-0,8mm
+
+
+0
+1
+1
+D&R_Conn
+VIA_CONN
+
+
+0
+6
+0
+D&R_Conn
+WR-BTB-SMT-FEMALE-2x50_P0.8mm
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+100
+100
+D&R_Conn
+WR-BTB-SMT-MALE-2x50_P0.8mm
+Highspeed card edge connector for 2.4mm PCB's with 70 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+100
+100
+D&R_Conn
+WR-PHD_90_2X13_FEMALE
+
+
+0
+52
+26
+D&R_Conn
+WR-PHD_90_2X13_MALE
+
+
+0
+52
+26
+D&R_Conn
+XLR-LX1601H3
+
+
+0
+4
+4
+D&R_Conn
+XLR-LX1604H3
+
+
+0
+4
+4
+D&R_Conn
+XLR-LX1604H3test
+
+
+0
+4
+4
+D&R_Conn
+XLR5-M_NC5MBH
+
+
+0
+6
+6
+D&R_Conn
+ZIF24
+
+
+0
+26
+26
+D&R_Conn
+ZIF24BC
+
+
+0
+26
+26
+D&R_Discrete
+GBU4
+Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
+Vishay GBU rectifier diode bridge
+0
+4
+4
+D&R_Discrete
+LED_0805
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+D&R_Discrete
+LED_3528
+Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+D&R_Discrete
+LED_GRN_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+D&R_Discrete
+LED_GRN_D3.0mm_H
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+D&R_Discrete
+LED_KPTR-3216
+
+
+0
+2
+2
+D&R_Discrete
+LED_RED_D3.0mm_H
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+D&R_Discrete
+SDIP-4
+SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf
+OnSemi Diode Bridge SDIP-4L
+0
+4
+4
+D&R_Discrete
+SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+D&R_Discrete
+SMB
+Diode SMB Standard
+Diode SMB Standard
+0
+2
+2
+D&R_Discrete
+SMC
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+D&R_Discrete
+SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+D&R_Discrete
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+D&R_Discrete
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+D&R_Discrete
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+D&R_Discrete
+SOT-523
+SOT353
+
+0
+3
+3
+D&R_Discrete
+TO-252-3_TabPin4
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+8
+4
+D&R_Discrete
+TO-263-2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+7
+3
+D&R_Faders
+C10044N
+Fader 100mm
+
+0
+5
+5
+D&R_IC
+9-UFBGA
+
+
+0
+9
+9
+D&R_IC
+3225_3.2x2.5mm
+
+SMD SMT crystal oscillator
+0
+4
+4
+D&R_IC
+5032_5.0x3.2mm
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+D&R_IC
+BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
+BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf
+BGA-96
+0
+96
+96
+D&R_IC
+BGA-529_19.0x19.0mm_P0.8mm
+BGA-625
+BGA-625
+0
+529
+529
+D&R_IC
+BM62
+
+
+0
+37
+37
+D&R_IC
+BM64
+
+
+0
+43
+43
+D&R_IC
+DFN-10-1EP_3x3mm_Pitch0.5mm
+10-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.5
+0
+11
+11
+D&R_IC
+DFN-12-1EP_3x3mm_Pitch0.45mm
+DD Package; 12-Lead Plastic DFN (3mm x 3mm) (see Linear Technology DFN_12_05-08-1725.pdf)
+DFN 0.45
+0
+16
+13
+D&R_IC
+DWP20
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+21
+21
+D&R_IC
+HTSSOP-16_4.4x6.5mm_Pitch0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+17
+17
+D&R_IC
+HTSSOP-20_4.4x6.5mm_Pitch0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+21
+21
+D&R_IC
+HTSSOP-24_4.4x7.8mm_P0.65mm
+TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)
+SSOP 0.65
+0
+25
+25
+D&R_IC
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias
+LFCSP, 32 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+47
+33
+D&R_IC
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+D&R_IC
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+D&R_IC
+MSOP8
+
+
+0
+9
+9
+D&R_IC
+Oscillator_SMD_4Pin_7.0x5.0mm
+SMD Crystal Oscillator Seiko Epson SG-8002CA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 7.0x5.0mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+D&R_IC
+POWERDI123
+ROHM - TUMD2
+TUMD2
+0
+2
+2
+D&R_IC
+PVSON-10
+3x3mm Body, 0.5mm Pitch, S-PVSON-N10, DRC, http://www.ti.com/lit/ds/symlink/tps61201.pdf
+0.5 S-PVSON-N10 DRC
+0
+39
+11
+D&R_IC
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+61
+45
+D&R_IC
+QFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+QFN, 48 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_48_05-08-1704.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+71
+49
+D&R_IC
+QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias
+QFN, 48 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_48_05-08-1704.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
+49
+D&R_IC
+QFN-64-1EP9_x9mm_Pitch0.5mm_EP4.7x4.7mm
+64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+93
+65
+D&R_IC
+QFN-64-1EP_9x9mm_Pitch0.5mm
+64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+80
+65
+D&R_IC
+QFN16
+
+
+0
+18
+18
+D&R_IC
+QFN32
+
+
+0
+33
+33
+D&R_IC
+QSOP-16_3.9x4.9mm_Pitch0.635mm
+16-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150" Body [QSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.635
+0
+16
+16
+D&R_IC
+SG5032
+SOT353
+
+0
+4
+4
+D&R_IC
+SMDIP-8
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+8
+8
+D&R_IC
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm
+8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+13
+9
+D&R_IC
+SOIC-8_3.9x4.9mm_P1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+D&R_IC
+SOIC-14_3.9x8.7mm_Pitch1.27mm
+14-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+14
+14
+D&R_IC
+SOIC-16DW_7.5x10.3mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+D&R_IC
+SOIC-16W_5.3x10.2mm_P1.27mm
+16-Lead Plastic Small Outline (SO) - Wide, 5.3 mm Body (http://www.ti.com/lit/ml/msop002a/msop002a.pdf)
+SOIC 1.27
+0
+16
+16
+D&R_IC
+SOIC-16_3.9x9.9mm_Pitch1.27mm
+16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+16
+16
+D&R_IC
+SOIC-20_DW
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+20
+20
+D&R_IC
+SOIC-20_DWP
+20-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+21
+21
+D&R_IC
+SOIC4_W
+
+
+0
+4
+4
+D&R_IC
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+D&R_IC
+SOT-23-8
+6-pin SOT-23 package
+SOT-23-6
+0
+8
+8
+D&R_IC
+SOT-25
+SOT353
+
+0
+5
+5
+D&R_IC
+SOT-353
+SOT353
+
+0
+5
+5
+D&R_IC
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+D&R_IC
+SOT-523
+SOT353
+
+0
+3
+3
+D&R_IC
+SSOP-28_5.3x10.2mm_Pitch0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+D&R_IC
+SSOP-32_7.5x10.3mm_P0.635mm
+ssop32
+SSOP 0.635
+0
+32
+32
+D&R_IC
+TDSON-8
+Power MOSFET package, TDSON-8-1, 5.15x5.9mm (https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-1/)
+tdson 
+0
+14
+5
+D&R_IC
+TO-263-5_TabPin6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+6
+D&R_IC
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+D&R_IC
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+D&R_IC
+TQFP-64_10x10mm_P0.5mm
+TQFP, 64 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+64
+64
+D&R_IC
+TQFP-64_14x14mm_P0.8mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+D&R_IC
+TQFP-144_20x20mm_P0.5mm
+TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+144
+144
+D&R_IC
+TQFP128PAD_14x14mm_P0.4mm
+TQFP128 14x14 / TQFP128 CASE 932BB (see ON Semiconductor 932BB.PDF)
+QFP 0.4
+0
+129
+129
+D&R_IC
+TQFP128P_1EP_14x14mm_P0.4mm_EP_6.3x5.4mm
+TQFP128 14x14 / TQFP128 CASE 932BB (see ON Semiconductor 932BB.PDF)
+QFP 0.4
+0
+132
+129
+D&R_IC
+TSOP-I-32_18.4x8mm_P0.5mm
+TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf, http://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/f32pm25.pdf)
+TSOP I 32
+0
+32
+32
+D&R_IC
+TSOP-I-32_18.4x8mm_Pitch0.5mm
+TSOP I, 32 pins, 18.4x8mm body (https://www.micron.com/~/media/documents/products/technical-note/nor-flash/tn1225_land_pad_design.pdf, http://www.fujitsu.com/downloads/MICRO/fma/pdfmcu/f32pm25.pdf)
+TSOP I 32
+0
+32
+32
+D&R_IC
+TSSOP-8_4.4x3mm_P0.65mm
+8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+D&R_IC
+TSSOP-10_3x3mm_P0.5mm
+TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
+SSOP 0.5
+0
+10
+10
+D&R_IC
+TSSOP-14_4.4x5mm_P0.65mm
+14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+D&R_IC
+TSSOP-16_4.4x5mm_P0.65mm
+16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+16
+16
+D&R_IC
+TSSOP-16_PP_4.4x6.5mm_Pitch0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+17
+17
+D&R_IC
+TSSOP-20_4.4x6.5mm_P0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+D&R_IC
+TSSOP-24_4.4x7.8mm_P0.65mm
+TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)
+SSOP 0.65
+0
+24
+24
+D&R_IC
+TSSOP-28_4.4x9.7mm_P0.65mm
+TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)
+SSOP 0.65
+0
+28
+28
+D&R_IC
+TSSOP-38_4.4x9.7mm_Pitch0.5mm
+TSSOP38: plastic thin shrink small outline package; 38 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)
+SSOP 0.5
+0
+38
+38
+D&R_IC
+VFBGA-153_11.5x13_P0.5mm
+UFBGA-169, 13x13 raster, 7x7mm package, pitch 0.5mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32f429ng.pdf
+BGA 169 0.5
+0
+153
+153
+D&R_IC
+VSSOP-8_3.0x3.0mm_P0.65mm
+
+VSSOP-8 3.0 x 3.0
+0
+8
+8
+D&R_IC
+WSON-6_1.5x1.5mm_P0.5mm
+WSON6, http://www.ti.com/lit/ds/symlink/tlv702.pdf
+WSON6_1.5x1.5mm_P0.5mm
+0
+6
+6
+D&R_Other
+3006P
+Bourns trimpot Hor
+Potentiometer
+0
+3
+3
+D&R_Other
+5630LED
+http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf
+LED
+0
+5
+5
+D&R_Other
+ADZSSC589_MINI
+
+
+0
+128
+128
+D&R_Other
+ALPS_RK09L
+
+
+0
+8
+8
+D&R_Other
+Alps-ST-RK97
+
+
+0
+6
+6
+D&R_Other
+Alps_RSA0N11S_100mm
+
+
+0
+5
+5
+D&R_Other
+Alps_RSA0N11S_100mm_Wide
+
+
+0
+5
+5
+D&R_Other
+Archwave_uREC2500
+
+
+0
+44
+40
+D&R_Other
+Arduino_nano
+
+
+0
+30
+30
+D&R_Other
+Auron-Logo-22x5mm
+
+
+0
+0
+0
+D&R_Other
+Auron-Logo-24mm
+
+
+0
+0
+0
+D&R_Other
+Auron-Logo-silk22x5mm
+
+
+0
+0
+0
+D&R_Other
+Auron-Logo_22.6x4.7
+
+
+0
+0
+0
+D&R_Other
+Auron-PCB
+
+
+0
+0
+0
+D&R_Other
+Auron_Logo_9.9x6.2
+
+
+0
+0
+0
+D&R_Other
+Auron_Logo_14.3x6.7
+
+
+0
+0
+0
+D&R_Other
+Auronlogo22mm
+
+
+0
+0
+0
+D&R_Other
+Card_Guide_CAH910-000
+
+
+0
+0
+0
+D&R_Other
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+D&R_Other
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+D&R_Other
+D&R logo 7.4x4.6
+
+
+0
+0
+0
+D&R_Other
+D&R_DSPcore
+
+
+0
+200
+200
+D&R_Other
+D-R_logo16mm
+
+
+0
+0
+0
+D&R_Other
+D-R_logo24mm
+
+
+0
+0
+0
+D&R_Other
+Dante
+
+
+0
+0
+0
+D&R_Other
+Dante_32x6.7
+
+
+0
+0
+0
+D&R_Other
+Dante_42x10
+
+
+0
+0
+0
+D&R_Other
+ED1115S_Encoder
+
+
+0
+7
+7
+D&R_Other
+Fiducial_0.5mm_Mask1mm
+Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)
+fiducial
+0
+1
+0
+D&R_Other
+Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
+Circular Fiducial, 1mm bare copper top; 2.54mm keepout
+marker
+0
+1
+1
+D&R_Other
+Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open
+Fuseholder horizontal open 5x20 Schurter 0031.8201, https://www.schurter.com/en/datasheet/typ_OGN.pdf
+Fuseholder horizontal open 5x20 Schurter 0031.8201
+0
+2
+2
+D&R_Other
+H2019NL
+
+
+0
+16
+16
+D&R_Other
+HAT
+
+
+0
+0
+0
+D&R_Other
+HAT2
+
+
+0
+0
+0
+D&R_Other
+Hole_2.1mm
+
+
+0
+1
+1
+D&R_Other
+Hole_2.5mm
+
+
+0
+1
+1
+D&R_Other
+Hole_3.8mm
+
+
+0
+1
+1
+D&R_Other
+IRM-05-5
+http://www.meanwell.com/webapp/product/search.aspx?prod=IRM-05
+ACDC-Converter 5W   Meanwell IRM-05
+0
+4
+4
+D&R_Other
+LED_PLCC_2835
+http://www.everlight.com/file/ProductFile/67-21S-KK2C-H4040QAR32835Z15-2T.pdf
+LED
+0
+2
+2
+D&R_Other
+LRS-35
+
+
+0
+7
+7
+D&R_Other
+LRS-35_noMains
+
+
+0
+2
+2
+D&R_Other
+LRS-75
+
+
+0
+7
+7
+D&R_Other
+Lightpipe_KSMD04-XX
+
+
+0
+0
+0
+D&R_Other
+Lightpipe_KSMD08-XX
+
+
+0
+0
+0
+D&R_Other
+Lightpipe_X2_90_1271.1010
+
+
+0
+0
+0
+D&R_Other
+Lightpipe_X10_90_1271.1010
+
+
+0
+0
+0
+D&R_Other
+MountingHole_3.2mm_M3_Pad
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+D&R_Other
+OLED128x64
+
+
+0
+11
+8
+D&R_Other
+OLED128x64_1xMountingHolesBottomLeft
+
+
+0
+8
+8
+D&R_Other
+OLED128x64_1xMountingHolesBottomRight
+
+
+0
+8
+8
+D&R_Other
+OLED128x64_2xMountingHoles
+
+
+0
+9
+8
+D&R_Other
+PCB_HOLDER_L_79300200
+
+
+0
+1
+1
+D&R_Other
+PCB_HOLDER_R_79300200
+
+
+0
+1
+1
+D&R_Other
+PEC11R_Encoder
+
+
+0
+7
+7
+D&R_Other
+PLR135-T10
+
+
+0
+5
+5
+D&R_Other
+Platstaf_1
+
+
+0
+2
+2
+D&R_Other
+Platstaf_10x10
+
+
+0
+1
+1
+D&R_Other
+RFID-RC522
+
+
+0
+8
+8
+D&R_Other
+RK09
+
+
+0
+8
+8
+D&R_Other
+RS-25
+
+
+0
+5
+5
+D&R_Other
+Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
+D&R_Other
+Relay_DPDT_Finder_40.52
+Relay DPDT Finder 40.52, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.52 Pitch 5mm
+0
+8
+8
+D&R_Other
+Symbol_ESD-Logo_CopperTop
+ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
+ESD-Logo, similar JEDEC-14, without text, ohne Text, Copper Top,
+0
+0
+0
+D&R_Other
+TORX173
+
+
+0
+6
+6
+D&R_Other
+TP1mm
+
+
+0
+1
+1
+D&R_Other
+Testpoint_Via
+
+
+0
+1
+1
+D&R_Other
+UI
+
+
+0
+0
+0
+D&R_Other
+V3-0524S
+
+
+0
+5
+5
+D&R_Other
+VQFN-44_to_TQFP-44_adapter
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+132
+44
+D&R_Other
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+D&R_Other
+mouse-bite-2mm-slot_wide
+
+
+0
+0
+0
+D&R_Other
+mouse-bite-3mm-slot_wide
+
+
+0
+0
+0
+D&R_Other
+test
+
+
+0
+0
+0
+D&R_Passive
+1812_L
+Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+D&R_Passive
+ATS-SM
+
+
+0
+2
+2
+D&R_Passive
+C5mm_D2.5
+Resistor, Axial,  RM 10mm, 1/3W,
+Resistor, Axial, RM 10mm, 1/3W,
+0
+2
+2
+D&R_Passive
+C5mm_D3.5
+Resistor, Axial,  RM 10mm, 1/3W,
+Resistor, Axial, RM 10mm, 1/3W,
+0
+2
+2
+D&R_Passive
+CP_Elec_4x4.5
+SMT capacitor, aluminium electrolytic, 4x4.5
+
+0
+2
+2
+D&R_Passive
+CP_Elec_5x5.3
+SMT capacitor, aluminium electrolytic, 5x5.3
+
+0
+2
+2
+D&R_Passive
+CP_Elec_5x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
+capacitor electrolytic
+0
+2
+2
+D&R_Passive
+CP_Elec_6.3x5.3
+SMT capacitor, aluminium electrolytic, 6.3x5.3
+
+0
+2
+2
+D&R_Passive
+CP_Elec_6.3x7.7
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
+0
+2
+2
+D&R_Passive
+CP_Elec_8x10.5
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+D&R_Passive
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+D&R_Passive
+CP_Elec_caseE
+SMT capacitor, aluminium electrolytic, 8x6.7
+
+0
+2
+2
+D&R_Passive
+CP_Radial_D16.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 16mm Electrolytic Capacitor
+0
+2
+2
+D&R_Passive
+CP_Radial_H_D16.0mm_H26mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, , diameter=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm  diameter 16mm Electrolytic Capacitor
+0
+2
+2
+D&R_Passive
+CP_Tantalum_Case-D_EIA-7343-31_Reflow
+Tantalum capacitor, Case D, EIA 7343-31, 7.3x4.3x2.8mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+D&R_Passive
+C_0402
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+D&R_Passive
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+D&R_Passive
+C_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+D&R_Passive
+C_1206
+Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)
+capacitor 1206
+0
+2
+2
+D&R_Passive
+C_1210
+Capacitor SMD 1210, reflow soldering, AVX (see smccp.pdf)
+capacitor 1210
+0
+2
+2
+D&R_Passive
+C_Array_Concave_4x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
+resistor array
+0
+8
+8
+D&R_Passive
+C_Rect_L16.5_W7_P10
+C, Rect series, Radial, pin pitch=15.00mm, , length*width=16.5*7mm^2, Capacitor, https://en.tdk.eu/inf/20/20/db/fc_2009/MKT_B32560_564.pdf
+C Rect series Radial pin pitch 15.00mm  length 16.5mm width 7mm Capacitor
+0
+2
+2
+D&R_Passive
+Choke-SMD-WE-PD_1280
+Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
+Choke, Drossel, WE-PD Typ LS, Wuerth, SMD,
+0
+2
+2
+D&R_Passive
+Choke_10mH_WE_FC
+
+
+0
+4
+4
+D&R_Passive
+Choke_SMD_WE-LQS_5040
+
+
+0
+2
+2
+D&R_Passive
+Choke_SMD_WE-LQS_6045
+
+
+0
+2
+2
+D&R_Passive
+Choke_SMD_WE-PD2_7850
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+0
+2
+2
+D&R_Passive
+Choke_SMD_WE-PD_1050
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+0
+2
+2
+D&R_Passive
+Choke_SMD_WE-TPC_2813
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+Choke, Drossel, WE-PDF, Wuerth, SMD,
+0
+2
+2
+D&R_Passive
+Choke_SMD_WE-TPC_5828
+
+
+0
+2
+2
+D&R_Passive
+Fuse_SMD2920
+Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+D&R_Passive
+LM-NP-1003L
+
+
+0
+6
+6
+D&R_Passive
+NTC_20mm
+
+
+0
+2
+2
+D&R_Passive
+PE-65612
+
+
+0
+4
+4
+D&R_Passive
+PE-65812NL
+
+
+0
+8
+8
+D&R_Passive
+Potentiometer_Trimmer_Bourns_3296Y
+Spindle Trimmer Potentiometer, Bourns 3296Y, https://www.bourns.com/pdfs/3296.pdf
+Spindle Trimmer Potentiometer   Bourns 3296Y
+0
+3
+3
+D&R_Passive
+R0.25W10
+Resistor, Axial,  RM 10mm, 1/3W,
+Resistor, Axial, RM 10mm, 1/3W,
+0
+2
+2
+D&R_Passive
+R_0402
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+D&R_Passive
+R_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+D&R_Passive
+R_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+D&R_Passive
+R_1206
+Resistor SMD 1206, reflow soldering, AVX (see smccp.pdf)
+resistor 1206
+0
+2
+2
+D&R_Passive
+R_1210
+Resistor SMD 1210, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1210
+0
+2
+2
+D&R_Passive
+R_1812
+Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+D&R_Passive
+R_2512
+Resistor SMD 2512, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 2512
+0
+2
+2
+D&R_Passive
+R_3216
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+D&R_Passive
+R_Array_Convex_4x0402
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+D&R_Passive
+SMD-WE-LQ_1812
+Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+D&R_Passive
+SRU1063
+
+
+0
+4
+2
+D&R_Passive
+Type_L
+1050_L
+
+0
+2
+2
+D&R_Passive
+WE-CNSW
+Wurth common mode choke
+
+0
+4
+4
+D&R_Passive
+c_elec_12.5x13
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+D&R_Switches
+ML-4LPG-1
+
+
+0
+14
+14
+D&R_Switches
+PB06-A
+
+
+0
+5
+5
+D&R_Switches
+PB06-C
+
+
+0
+5
+5
+D&R_Switches
+PS004_7MM
+
+
+0
+8
+8
+D&R_Switches
+PS004_12MM
+
+
+0
+8
+8
+D&R_Switches
+SPUN190900
+
+
+0
+6
+6
+D&R_Switches
+SW_2xDPDT_SPUJ193700
+
+
+0
+12
+12
+D&R_Switches
+SW_DIP_x08_EC-1002-8p
+8x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x21.88mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+16
+16
+D&R_Switches
+SW_DPDT_834C
+
+
+0
+6
+6
+LED_SMD
+LED-APA102-2020
+http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
+LED RGB SPI
+0
+8
+6
+LED_SMD
+LED-L1T2_LUMILEDS
+http://www.lumileds.com/uploads/438/DS133-pdf
+LUMILEDS LUXEON TX L1T2 LED
+0
+3
+3
+LED_SMD
+LED_1W_3W_R8
+https://www.gme.cz/data/attachments/dsh.518-234.1.pdf
+LED 1W 3W 5W
+0
+3
+3
+LED_SMD
+LED_0201_0603Metric
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED
+0
+4
+2
+LED_SMD
+LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+4
+2
+LED_SMD
+LED_0402_1005Metric
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_ASMB-KTF0-0A306
+2220 Tricolor PLCC-4 LED, https://docs.broadcom.com/docs/ASMB-KTF0-0A306-DS100
+Tricolor LED
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC4_3.2x2.8mm_CW
+https://docs.broadcom.com/docs/AV02-4186EN
+LED Avago PLCC-4 ASMB-MTB0-0A3A2
+0
+4
+4
+LED_SMD
+LED_Avago_PLCC6_3x2.8mm
+https://docs.broadcom.com/docs/AV02-3793EN
+LED Avago PLCC-6 ASMT-YTB7-0AA02
+0
+6
+6
+LED_SMD
+LED_CSP_Samsung_LH181B_2.36x2.36mm
+High Power CSP LED, 2.36mm x 2.36mm, 1.4A max, https://cdn.samsung.com/led/file/resource/2021/01/Data_Sheet_LH181B_Rev.4.0.pdf
+LED Samsung LH181B
+0
+2
+2
+LED_SMD
+LED_Cree-PLCC4_2x2mm_CW
+2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_3.2x2.8mm_CCW
+3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC4_5x5mm_CW
+5.0mm x 5.0mm PLCC4 LED
+LED Cree PLCC-4
+0
+4
+4
+LED_SMD
+LED_Cree-PLCC6_4.7x1.5mm
+4.7mm x 1.5mm PLCC6 LED, http://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf
+LED Cree PLCC-6
+0
+6
+6
+LED_SMD
+LED_Cree-XB
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXBD.pdf
+LED Cree XB
+0
+5
+3
+LED_SMD
+LED_Cree-XH
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XHB.pdf
+LED Cree XH
+0
+8
+2
+LED_SMD
+LED_Cree-XHP35
+http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds--XHP35.pdf
+LED Cree XHP35
+0
+6
+3
+LED_SMD
+LED_Cree-XHP50_6V
+Cree XHP50, 6V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED Cree XHP50
+0
+15
+3
+LED_SMD
+LED_Cree-XHP50_12V
+Cree XHP50, 12V footprint, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+LED XHP50 Cree
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_6V
+Cree XHP70 LED, 6V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XHP70_12V
+Cree XHP70 LED, 12V version, http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+LED Cree XHP70
+0
+15
+3
+LED_SMD
+LED_Cree-XP
+LED Cree-XP http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/XLampXPE2.pdf
+LED Cree XP
+0
+6
+3
+LED_SMD
+LED_Cree-XP-G
+LED Cree-XP-G http://www.cree.com/~/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/XLampXPG.pdf
+LED Cree XP-G
+0
+6
+3
+LED_SMD
+LED_Cree-XQ
+LED Cree-XQ http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Cree-XQ_HandSoldering
+LED Cree-XQ handsoldering pads http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/XLamp/Data-and-Binning/ds-XQB.pdf
+LED Cree XQ
+0
+2
+2
+LED_SMD
+LED_Dialight_591
+LED SMD 3mm Right Angle series (http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/C17354.pdf)
+LED Dialight 591
+0
+2
+2
+LED_SMD
+LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
+http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+RGB LED NeoPixel addressable
+0
+4
+4
+LED_SMD
+LED_Kingbright_AAA3528ESGCT
+Kingbright, dual LED, 3.5 x 2.8 mm Surface Mount LED Lamp (http://www.kingbrightusa.com/images/catalog/SPEC/AAA3528ESGCT.pdf)
+dual led smd
+0
+4
+4
+LED_SMD
+LED_Kingbright_APFA3010_3x1.5mm_Horizontal
+LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
+LED RGB APFA3010 KINGBRIGHT 3x1.5mm
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C19HE1WT
+LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
+LED RGB Chip SMD
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-S326
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
+0
+3
+3
+LED_SMD
+LED_Lumex_SML-LX0303SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0303SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Lumex_SML-LX0404SIUPGUSB
+Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf
+LED RGB
+0
+4
+4
+LED_SMD
+LED_Luminus_MP-3030-1100_3.0x3.0mm
+Mid Power LED, Luminus MP-3030-1100, 3.0x3.0mm, 816mW, https://download.luminus.com/datasheets/Luminus_MP3030_1100_Datasheet.pdf
+LED Luminus MP-3030-1100
+0
+5
+2
+LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
+LED_SMD
+LED_PLCC-2
+LED PLCC-2 SMD package
+LED PLCC-2 SMD
+0
+2
+2
+LED_SMD
+LED_PLCC_2835
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_PLCC_2835_Handsoldering
+https://www.luckylight.cn/media/component/data-sheet/R2835BC-B2M-M10.pdf
+LED
+0
+2
+2
+LED_SMD
+LED_RGB_1210
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+LED_SMD
+LED_RGB_5050-6
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+LED_SMD
+LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm
+http://www.farnell.com/datasheets/2003905.pdf
+LED RGB PLCC-6 CLP6C-FBK
+0
+6
+6
+LED_SMD
+LED_RGB_Everlight_EASV3015RGBA0_Horizontal
+LED, RGB, right-angle, clear, https://everlightamericas.com/index.php?controller=attachment&id_attachment=3220
+LED RGB right-angle
+0
+4
+4
+LED_SMD
+LED_RGB_Getian_GT-P6PRGB4303
+https://www.gme.sk/img/cache/doc/518/177/vykonova-led-getian-gt-p6prgb4303-datasheet-1.pdf
+LED RGB 
+0
+7
+7
+LED_SMD
+LED_RGB_PLCC-6
+RGB LED PLCC-6
+RGB LED PLCC-6
+0
+6
+6
+LED_SMD
+LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
+3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
+LED RGB Wurth PLCC-4
+0
+4
+4
+LED_SMD
+LED_ROHM_SMLVN6
+https://www.rohm.com/datasheet/SMLVN6RGB1U
+LED ROHM SMLVN6
+0
+6
+6
+LED_SMD
+LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano
+0
+4
+4
+LED_SMD
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+LED_SMD
+LED_SK6812_EC15_1.5x1.5mm
+http://www.newstar-ledstrip.com/product/20181119172602110.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+LED_SMD
+LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm
+https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+LED RGB NeoPixel
+0
+6
+6
+LED_SMD
+LED_Yuji_5730
+LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
+LED Yuji 5730
+0
+3
+2
+LED_SMD
+LED_miniPLCC_2315
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
+LED_SMD
+LED_miniPLCC_2315_Handsoldering
+https://docs.broadcom.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadername3=MDT-Type&blobheadervalue1=attachment%3Bfilename%3DAV02-2205EN_DS_ASMT-TxBM_2014-05-09.pdf&blobheadervalue2=application%2Fx-download&blobheadervalue3=abinary%253B%2Bcharset%253DUTF-8&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1430858274704&ssbinary=true
+LED
+0
+2
+2
+LED_THT
+LED_BL-FL7680RGB
+'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
+RGB LED Piranha Super-Flux BetLux
+0
+4
+4
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O3.81mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z1.6mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z4.9mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O6.35mm_Z8.2mm
+LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm, 2 pins
+LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 8.2mm 2 pins
+0
+2
+2
+LED_THT
+LED_D1.8mm_W3.3mm_H2.4mm
+LED, Round,  Rectangular size 3.3x2.4mm^2 diameter 1.8mm, 2 pins
+LED Round  Rectangular size 3.3x2.4mm^2 diameter 1.8mm 2 pins
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.0mm_H2.8mm_FlatTop
+LED, Round, FlatTop,  Rectangular size 4.0x2.8mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-1034IDT(Ver.9A).pdf
+LED Round FlatTop  Rectangular size 4.0x2.8mm^2 diameter 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D2.0mm_W4.8mm_H2.5mm_FlatTop
+LED, Round, FlatTop,  Rectangular size 4.8x2.5mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-13GD(Ver.11B).pdf
+LED Round FlatTop  Rectangular size 4.8x2.5mm^2 diameter 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm-3
+LED, diameter 3.0mm, 2 pins, diameter 3.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-3VSURKCGKC(Ver.8A).pdf
+LED diameter 3.0mm 2 pins diameter 3.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D3.0mm_Clear
+IR-LED, diameter 3.0mm, 2 pins, color: clear
+IR infrared LED diameter 3.0mm 2 pins clear
+0
+2
+2
+LED_THT
+LED_D3.0mm_FlatTop
+LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf
+LED Round FlatTop diameter 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm
+LED, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 2.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 6.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins, diameter 3.0mm z-position of LED center 10.0mm, 2 pins
+LED diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 2.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 6.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins diameter 3.0mm z-position of LED center 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRBlack
+IR-ED, diameter 3.0mm, 2 pins, color: black
+IR infrared LED diameter 3.0mm 2 pins black
+0
+2
+2
+LED_THT
+LED_D3.0mm_IRGrey
+IR-LED, diameter 3.0mm, 2 pins, color: grey
+IR infrared LED diameter 3.0mm 2 pins grey
+0
+2
+2
+LED_THT
+LED_D4.0mm
+LED, diameter 4.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-43GD(Ver.12B).pdf
+LED diameter 4.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm-3
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.17A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D5.0mm-3_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 3 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 3 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+3
+3
+LED_THT
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Staggered_Pins
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+rgb led
+0
+4
+4
+LED_THT
+LED_D5.0mm-4_RGB_Wide_Pins
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+LED_THT
+LED_D5.0mm_Clear
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_FlatTop
+LED, Round, FlatTop, diameter 5.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-483GDT(Ver.15B).pdf
+LED Round FlatTop diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_Clear
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRGrey
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 3.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 9.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins, diameter 5.0mm z-position of LED center 15.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 3.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 9.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins diameter 5.0mm z-position of LED center 15.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRBlack
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D5.0mm_IRGrey
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D8.0mm
+LED, diameter 8.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED8MMGE_LED8MMGN_LED8MMRT%23KIN.pdf
+LED diameter 8.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D8.0mm-3
+LED, diameter 8.0mm, 2 pins, diameter 8.0mm, 3 pins
+LED diameter 8.0mm 2 pins diameter 8.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D10.0mm
+LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf
+LED diameter 10.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_D10.0mm-3
+LED, diameter 10.0mm, 2 pins, diameter 10.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-819EGW(Ver.14A).pdf
+LED diameter 10.0mm 2 pins diameter 10.0mm 3 pins
+0
+3
+3
+LED_THT
+LED_D20.0mm
+LED, diameter 20.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/DLC2-6GD%28V6%29.pdf
+LED diameter 20.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Oval_W5.2mm_H3.8mm
+LED_Oval, Oval,  Oval size 5.2x3.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-5603QBC-D(Ver.12B).pdf
+LED_Oval Oval  Oval size 5.2x3.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.0mm_H2.0mm
+LED_Rectangular, Rectangular,  Rectangular size 3.0x2.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.0x2.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.8mm_FlatTop
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.8mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-2774GD(Ver.7B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.8mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W3.9mm_H1.9mm
+LED_Rectangular, Rectangular,  Rectangular size 3.9x1.9mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-144GDT(Ver.14B).pdf
+LED_Rectangular Rectangular  Rectangular size 3.9x1.9mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm-3Pins
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 3 pins
+0
+3
+3
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O1.27mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O3.81mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z1.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z3.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H2.0mm_Horizontal_O6.35mm_Z5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins,  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm, 2 pins
+LED_Rectangular Rectangular  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 1.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 3.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins  Rectangular size 5.0x2.0mm^2 z-position of LED center 5.0mm 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W5.0mm_H5.0mm
+LED_Rectangular, Rectangular,  Rectangular size 5.0x5.0mm^2, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-169XCGDK(Ver.9B).pdf
+LED_Rectangular Rectangular  Rectangular size 5.0x5.0mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_Rectangular_W7.62mm_H4.55mm_P5.08mm_R3
+Datasheet can be found at https://www.gme.cz/data/attachments/dsh.511-795.1.pdf
+LED automotive super flux 7.62mm
+0
+4
+2
+LED_THT
+LED_SideEmitter_Rectangular_W4.5mm_H1.6mm
+LED_SideEmitter_Rectangular, Rectangular, SideEmitter,  Rectangular size 4.5x1.6mm^2, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED15MMGE_LED15MMGN%23KIN.pdf
+LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^2 2 pins
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H1_6.35x6.35mm
+Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Red 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H3_6.35x6.35mm
+Amber 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Amber 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H5_6.35x6.35mm
+Green 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Green 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H7_6.35x6.35mm
+Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Yellow 5381 Series LED
+0
+2
+2
+Package_DIP
+DIP-4_W7.62mm
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+Package_DIP
+DIP-4_W7.62mm_LongPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+4
+4
+Package_DIP
+DIP-4_W7.62mm_SMDSocket_SmallPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+4
+4
+Package_DIP
+DIP-4_W7.62mm_Socket
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+4
+4
+Package_DIP
+DIP-4_W7.62mm_Socket_LongPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+4
+4
+Package_DIP
+DIP-4_W8.89mm_SMDSocket_LongPads
+4-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+4
+4
+Package_DIP
+DIP-4_W10.16mm
+4-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+4
+4
+Package_DIP
+DIP-4_W10.16mm_LongPads
+4-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+4
+4
+Package_DIP
+DIP-5-6_W7.62mm
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_LongPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_SMDSocket_SmallPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_Socket
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_Socket_LongPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W8.89mm_SMDSocket_LongPads
+5-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W10.16mm
+5-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+5
+5
+Package_DIP
+DIP-5-6_W10.16mm_LongPads
+5-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+5
+5
+Package_DIP
+DIP-6_W7.62mm
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_SMDSocket_SmallPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_Socket
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_Socket_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W8.89mm_SMDSocket_LongPads
+6-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W10.16mm
+6-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+6
+6
+Package_DIP
+DIP-6_W10.16mm_LongPads
+6-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+6
+6
+Package_DIP
+DIP-8-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+DIP-8-16_W7.62mm_Socket
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+Package_DIP
+DIP-8-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+Package_DIP
+DIP-8-N6_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 6
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+DIP-8-N7_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 7
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_SMDSocket_SmallPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_Socket
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_Socket_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W8.89mm_SMDSocket_LongPads
+8-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W10.16mm
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+8
+8
+Package_DIP
+DIP-8_W10.16mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+8
+8
+Package_DIP
+DIP-10_W7.62mm
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_LongPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_SMDSocket_SmallPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_Socket
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_Socket_LongPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W8.89mm_SMDSocket_LongPads
+10-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W10.16mm
+10-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+10
+10
+Package_DIP
+DIP-10_W10.16mm_LongPads
+10-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+10
+10
+Package_DIP
+DIP-12_W7.62mm
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_LongPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_SMDSocket_SmallPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_Socket
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_Socket_LongPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W8.89mm_SMDSocket_LongPads
+12-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W10.16mm
+12-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+12
+12
+Package_DIP
+DIP-12_W10.16mm_LongPads
+12-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+12
+12
+Package_DIP
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_SMDSocket_SmallPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_Socket
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_Socket_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W8.89mm_SMDSocket_LongPads
+14-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W10.16mm
+14-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+14
+14
+Package_DIP
+DIP-14_W10.16mm_LongPads
+14-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+14
+14
+Package_DIP
+DIP-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_SMDSocket_SmallPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_Socket
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W8.89mm_SMDSocket_LongPads
+16-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W10.16mm
+16-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+16
+16
+Package_DIP
+DIP-16_W10.16mm_LongPads
+16-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+16
+16
+Package_DIP
+DIP-18_W7.62mm
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_SMDSocket_SmallPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_Socket
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_Socket_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+18
+18
+Package_DIP
+DIP-18_W8.89mm_SMDSocket_LongPads
+18-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+18
+18
+Package_DIP
+DIP-20_W7.62mm
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_LongPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_SMDSocket_SmallPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_Socket
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_Socket_LongPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+20
+20
+Package_DIP
+DIP-20_W8.89mm_SMDSocket_LongPads
+20-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+20
+20
+Package_DIP
+DIP-22_W7.62mm
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_LongPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_SMDSocket_SmallPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_Socket
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_Socket_LongPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W8.89mm_SMDSocket_LongPads
+22-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_LongPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_SMDSocket_SmallPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_Socket
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_Socket_LongPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W11.43mm_SMDSocket_LongPads
+22-lead though-hole mounted DIP package, row spacing 11.43 mm (450 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads
+0
+22
+22
+Package_DIP
+DIP-24_W7.62mm
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_Socket
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W8.89mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_Socket
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W11.43mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 11.43 mm (450 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_Socket
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W16.51mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-28_W7.62mm
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_SMDSocket_SmallPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_Socket
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_Socket_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W8.89mm_SMDSocket_LongPads
+28-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_SMDSocket_SmallPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_Socket
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_Socket_LongPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W16.51mm_SMDSocket_LongPads
+28-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+28
+28
+Package_DIP
+DIP-32_W7.62mm
+32-lead dip package, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_LongPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_SMDSocket_SmallPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_Socket
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_Socket_LongPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+32
+32
+Package_DIP
+DIP-32_W16.51mm_SMDSocket_LongPads
+32-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+32
+32
+Package_DIP
+DIP-40_W15.24mm
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_SMDSocket_SmallPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_Socket
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_Socket_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W16.51mm_SMDSocket_LongPads
+40-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils)
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_LongPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_SMDSocket_SmallPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_Socket
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_Socket_LongPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W26.67mm_SMDSocket_LongPads
+40-lead though-hole mounted DIP package, row spacing 26.67 mm (1050 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads
+0
+40
+40
+Package_DIP
+DIP-42_W15.24mm
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_LongPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_SMDSocket_SmallPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_Socket
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_Socket_LongPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+42
+42
+Package_DIP
+DIP-42_W16.51mm_SMDSocket_LongPads
+42-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+42
+42
+Package_DIP
+DIP-48_W15.24mm
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_LongPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_SMDSocket_SmallPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_Socket
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_Socket_LongPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+48
+48
+Package_DIP
+DIP-48_W16.51mm_SMDSocket_LongPads
+48-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+48
+48
+Package_DIP
+DIP-64_W15.24mm
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_Socket
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W16.51mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils)
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), LongPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_Socket
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), Socket
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W24.13mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 24.13 mm (950 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 24.13mm 950mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils)
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_Socket
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W26.67mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 26.67 mm (1050 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+Fairchild_LSOP-8
+8-Lead, 300\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)
+LSOP 2.54mm 300mil
+0
+8
+8
+Package_DIP
+PowerIntegrations_PDIP-8B
+Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+7
+7
+Package_DIP
+PowerIntegrations_PDIP-8C
+Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+7
+7
+Package_DIP
+PowerIntegrations_SDIP-10C
+PowerIntegrations variant of 10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://www.power.com/sites/default/files/product-docs/tophx_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+9
+9
+Package_DIP
+PowerIntegrations_SMD-8
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+PowerIntegrations_SMD-8B
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+PowerIntegrations_SMD-8C
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+PowerIntegrations_eDIP-12B
+Power Integrations eDIP-12B, see https://www.power.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+11
+11
+Package_DIP
+SMDIP-4_W7.62mm
+4-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+Package_DIP
+SMDIP-4_W9.53mm
+4-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+4
+4
+Package_DIP
+SMDIP-4_W9.53mm_Clearance8mm
+4-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+4
+4
+Package_DIP
+SMDIP-4_W11.48mm
+4-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+4
+4
+Package_DIP
+SMDIP-6_W7.62mm
+6-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+6
+6
+Package_DIP
+SMDIP-6_W9.53mm
+6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+6
+6
+Package_DIP
+SMDIP-6_W9.53mm_Clearance8mm
+6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+6
+6
+Package_DIP
+SMDIP-6_W11.48mm
+6-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+6
+6
+Package_DIP
+SMDIP-8_W7.62mm
+8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+SMDIP-8_W9.53mm
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+8
+8
+Package_DIP
+SMDIP-8_W9.53mm_Clearance8mm
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+8
+8
+Package_DIP
+SMDIP-8_W11.48mm
+8-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+8
+8
+Package_DIP
+SMDIP-10_W7.62mm
+10-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+10
+10
+Package_DIP
+SMDIP-10_W9.53mm
+10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+10
+10
+Package_DIP
+SMDIP-10_W9.53mm_Clearance8mm
+10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+10
+10
+Package_DIP
+SMDIP-10_W11.48mm
+10-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+10
+10
+Package_DIP
+SMDIP-12_W7.62mm
+12-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+12
+12
+Package_DIP
+SMDIP-12_W9.53mm
+12-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+12
+12
+Package_DIP
+SMDIP-12_W9.53mm_Clearance8mm
+12-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+12
+12
+Package_DIP
+SMDIP-12_W11.48mm
+12-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+12
+12
+Package_DIP
+SMDIP-14_W7.62mm
+14-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Package_DIP
+SMDIP-14_W9.53mm
+14-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+14
+14
+Package_DIP
+SMDIP-14_W9.53mm_Clearance8mm
+14-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+14
+14
+Package_DIP
+SMDIP-14_W11.48mm
+14-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+14
+14
+Package_DIP
+SMDIP-16_W7.62mm
+16-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Package_DIP
+SMDIP-16_W9.53mm
+16-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+16
+16
+Package_DIP
+SMDIP-16_W9.53mm_Clearance8mm
+16-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+16
+16
+Package_DIP
+SMDIP-16_W11.48mm
+16-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+16
+16
+Package_DIP
+SMDIP-18_W7.62mm
+18-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+Package_DIP
+SMDIP-18_W9.53mm
+18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+18
+18
+Package_DIP
+SMDIP-18_W9.53mm_Clearance8mm
+18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+18
+18
+Package_DIP
+SMDIP-18_W11.48mm
+18-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+18
+18
+Package_DIP
+SMDIP-20_W7.62mm
+20-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+Package_DIP
+SMDIP-20_W9.53mm
+20-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+20
+20
+Package_DIP
+SMDIP-20_W9.53mm_Clearance8mm
+20-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+20
+20
+Package_DIP
+SMDIP-20_W11.48mm
+20-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+20
+20
+Package_DIP
+SMDIP-22_W7.62mm
+22-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+22
+22
+Package_DIP
+SMDIP-22_W9.53mm
+22-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+22
+22
+Package_DIP
+SMDIP-22_W9.53mm_Clearance8mm
+22-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+22
+22
+Package_DIP
+SMDIP-22_W11.48mm
+22-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+22
+22
+Package_DIP
+SMDIP-24_W7.62mm
+24-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W9.53mm
+24-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W11.48mm
+24-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W15.24mm
+24-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+Package_DIP
+SMDIP-28_W15.24mm
+28-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+Package_DIP
+SMDIP-32_W7.62mm
+32-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W9.53mm
+32-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W11.48mm
+32-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W15.24mm
+32-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+32
+32
+Package_DIP
+SMDIP-40_W15.24mm
+40-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+Package_DIP
+SMDIP-40_W25.24mm
+40-lead surface-mounted (SMD) DIP package, row spacing 25.24 mm (993 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 25.24mm 993mil
+0
+40
+40
+Package_DIP
+SMDIP-42_W15.24mm
+42-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+42
+42
+Package_DIP
+SMDIP-48_W15.24mm
+48-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+48
+48
+Package_DIP
+SMDIP-64_W15.24mm
+64-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+64
+64
+Package_DIP
+Toshiba_11-7A9
+Toshiba 11-7A9 package, like 6-lead dip package with missing pin 5, row spacing 7.62 mm (300 mils), https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)
+Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+5
+5
+Package_DIP
+Vishay_HVM-DIP-3_W7.62mm
+3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4), row spacing 7.62 mm (300 mils), see https://www.vishay.com/docs/91361/hexdip.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP
+0
+4
+3
+Package_LCC
+PLCC-20
+PLCC, 20 pins, surface mount
+plcc smt
+0
+20
+20
+Package_LCC
+PLCC-20_SMD-Socket
+PLCC, 20 pins, surface mount
+plcc smt
+0
+20
+20
+Package_LCC
+PLCC-20_THT-Socket
+PLCC, 20 pins, through hole
+plcc leaded
+0
+20
+20
+Package_LCC
+PLCC-28
+PLCC, 28 pins, surface mount
+plcc smt
+0
+28
+28
+Package_LCC
+PLCC-28_SMD-Socket
+PLCC, 28 pins, surface mount
+plcc smt
+0
+28
+28
+Package_LCC
+PLCC-28_THT-Socket
+PLCC, 28 pins, through hole
+plcc leaded
+0
+28
+28
+Package_LCC
+PLCC-32_11.4x14.0mm_P1.27mm
+PLCC, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+32
+32
+Package_LCC
+PLCC-32_THT-Socket
+PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf
+plcc leaded
+0
+32
+32
+Package_LCC
+PLCC-44
+PLCC, 44 pins, surface mount
+plcc smt
+0
+44
+44
+Package_LCC
+PLCC-44_16.6x16.6mm_P1.27mm
+PLCC, 44 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+44
+44
+Package_LCC
+PLCC-44_SMD-Socket
+PLCC, 44 pins, surface mount
+plcc smt
+0
+44
+44
+Package_LCC
+PLCC-44_THT-Socket
+PLCC, 44 pins, through hole
+plcc leaded
+0
+44
+44
+Package_LCC
+PLCC-52
+PLCC, 52 pins, surface mount
+plcc smt
+0
+52
+52
+Package_LCC
+PLCC-52_SMD-Socket
+PLCC, 52 pins, surface mount
+plcc smt
+0
+52
+52
+Package_LCC
+PLCC-52_THT-Socket
+PLCC, 52 pins, through hole
+plcc leaded
+0
+52
+52
+Package_LCC
+PLCC-68
+PLCC, 68 pins, surface mount
+plcc smt
+0
+68
+68
+Package_LCC
+PLCC-68_24.2x24.2mm_P1.27mm
+PLCC, 68 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+68
+68
+Package_LCC
+PLCC-68_SMD-Socket
+PLCC, 68 pins, surface mount
+plcc smt
+0
+68
+68
+Package_LCC
+PLCC-68_THT-Socket
+PLCC, 68 pins, through hole
+plcc leaded
+0
+68
+68
+Package_LCC
+PLCC-84
+PLCC, 84 pins, surface mount
+plcc smt
+0
+84
+84
+Package_LCC
+PLCC-84_29.3x29.3mm_P1.27mm
+PLCC, 84 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+84
+84
+Package_LCC
+PLCC-84_SMD-Socket
+PLCC, 84 pins, surface mount
+plcc smt
+0
+84
+84
+Package_LCC
+PLCC-84_THT-Socket
+PLCC, 84 pins, through hole
+plcc leaded
+0
+84
+84
+Package_qfn
+QFN50P700X700X100-45N
+
+
+0
+45
+45
